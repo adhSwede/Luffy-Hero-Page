@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-family: 'Roboto';
+    font-size: 20px;
+    line-height: 30px;
+}
+
+/* Header Styling */
+header{
+    background-color: #B6223F;
+    text-align: center;
+    padding: 20px 20px;
+}
+h1,h2{
+     font-family: "Ga Maamli", sans-serif;
+
+}
+header h1{
+    color:white;
+    font-size: 50px;
+    
+}
+header img{
+    border: 10px solid white;
+    border-radius: 150px;
+    width: 500px;
+}
+
+/* Main Styling */
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+main img{
+    max-width: 100%;
+}
+h2{
+    font-size: 30px;
+    color: #B6223F;
+    margin: 20px 0 -10px 0;
+}
+a{
+    color:#B6223F
+}
+a:hover{
+        background-color: #B6223F;
+        color: white;
+}
+
+/* Footer Styling */
+footer{
+    background-color: #B6223F;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+footer p{
+    margin: 0;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+}
+p.caption{ 
+    color: #999999;
+    font-style: italic;
+    margin-top: 0;
+
+}
